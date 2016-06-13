@@ -1,4 +1,9 @@
 v0.1-0  (2016-06-13)
 
   o initial version: provides moving average, min, max,
-    sum and absolute sum
+    sum and absolute sum. [The function 'runStats' has
+    previously been part of package PMwR
+    http://enricoschumann.net/R/packages/PMwR/ ]
+
+  o there is a public Git repository at
+    https://github.com/enricoschumann/runStats

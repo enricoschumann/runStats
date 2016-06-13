@@ -1,4 +1,4 @@
-RUNIT TEST PROTOCOL -- Mon Jun 13 20:28:22 2016 
+RUNIT TEST PROTOCOL -- Mon Jun 13 20:32:15 2016 
 *********************************************** 
 Number of test functions: 1 
 Number of errors: 0 
@@ -19,4 +19,4 @@ Involved directory:
 ~/Packages/runStats/inst/unitTests 
 --------------------------- 
 Test file: /home/es/Packages/runStats/inst/unitTests/ut_runStats.R 
-test.runStats: (19 checks) ... OK (0.05 seconds)
+test.runStats: (19 checks) ... OK (0.01 seconds)
