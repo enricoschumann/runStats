@@ -1,0 +1,4 @@
+v0.1-0  (2016-06-13)
+
+  o initial version: provides moving average, min, max,
+    sum and absolute sum
